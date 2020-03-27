@@ -1,0 +1,13 @@
+C:\Users\Benjamin\source\repos\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Benjamin\source\repos\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Benjamin\source\repos\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Benjamin\source\repos\Sample\Sample\bin\Debug\Sample.xml
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.vbprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.Form1.resources
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.LoginForm1.resources
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.Resources.resources
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.vbproj.GenerateResource.cache
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.vbproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.xml
+C:\Users\Benjamin\source\repos\Sample\Sample\obj\Debug\Sample.pdb
